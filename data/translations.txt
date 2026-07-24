@@ -1,0 +1,1257 @@
+HelloAO translation list
+AAB	eng	English	Accessible Ancients Bible
+ARBNAV	arb	Arabic	New Arabic Version (Book of Life)
+BSB	eng	English	Berean Standard Bible
+ENGWEBP	eng	English	World English Bible
+GHT	eng	English	Garth's Hyper-literal Translation
+GHTG	grc	Ancient Greek	Garth's Hyper-literal Translation (Greek)
+HBOMAS	hbo	Ancient Hebrew	Hebrew Masoretic OT
+HINIRV	hin	Hindi	Hindi Indian Revised Version Bible
+aai_wbt	aai	Arifama-Miniafia	Minaifia NT
+aak_wbt	aak	Ankave	Minaifia NT
+aau_wbt	aau	Abau	Abau NT
+aaz_ubb	aaz	Amarasi	Amarasi Bible
+abc_wbt	abc	Ambala Ayta	Ayta Ambala NT Portions
+abt_map	abt	Ambulas	Ambulas Maprik NT
+abt_wos	abt	Ambulas	Ambulas Wosera NT
+abx_wbt	abx	Inabaknon	Inabaknon NT
+aby_wbt	aby	Aneme Wake	Aneme Wake NT
+acf_wbt	acf	Saint Lucian Creole French	Saint Lucian Creole French NT
+acr_ibs	acr	Achi	New Testament in Achi
+acr_tnt	acr	Achi	Achi Rabinal NT (traditional orthography)
+acr_wbt	acr	Achi	Achi Rabinal NT (new orthography)
+acu_tbl	acu	Achuar-Shiwiar	Achuar-shiwiar Bible
+adt_bsa	adt	Adnyamathanha	Adnyamathanha Christmas Story
+adz_png	adz	Adzera	Adzera Bible
+aer_wbt	aer	Eastern Arrernte	Eastern Arrente Bible
+aey_wbt	aey	Amele	Amele Genesis
+agd_wbt	agd	Agarabi	Agarabi NT
+agg_png	agg	Angor	Angor NT
+agm_png	agm	Angaataha	Angaataha NT
+agn_wps	agn	Agutaynen	Agutaynen NT
+agr_wbt	agr	Aguaruna	Aguaruna Bible
+agt_wbt	agt	Central Cagayan Agta	Central Cagayan Agta
+agu_nvs	agu	Aguacateco	Aguacateco Bible
+ahr_twf	ahr	Ahirani	Ahirani Matthew and Mark
+aia_wbt	aia	Arosi	Arosi New Testament
+aii_abt	aii	Assyrian Neo-Aramaic	Assyrian Neo-Aramaic NT+Psalms
+ake_bss	ake	Akawaio	Akawaio NT
+alp_wbt	alp	Alune	Alune NT
+alq_cbs	alq	Algonquin	Algonquin NT
+alw_wtw	alw	Alaba-K’abeena	Alaba-K’abeena NT
+aly_wbt	aly	Alyawarr	Alyawarr Bible
+ame_tbl	ame	Yanesha'	Yanesha' NT
+amf_sim	amf	Hamer-Banna	Banna NT
+amh_amh	amh	Amharic	Amharic NT
+amk_wbt	amk	Ambai	Ambai NT
+amm_tbl	amm	Ama (Papua New Guinea)	Ama NT
+amn_ana	amn	Amanab	Amanab NT
+amn_nai	amn	Amanab	Amanab Naineri NT
+amo_d43	amo	Amo	Amo NT
+amp_wbt	amp	Alamblak	Alamblak NT
+amr_wbt	amr	Amarakaeri	New Testament in Amarakaeri (PE:amr:Amarakaeri)
+amu_wbt	amu	Guerrero Amuzgo	New Testament in Amuzgo, Guerrero (MX:amu:Amuzgo, Guerrero)
+amx_wbt	amx	Anmatyerre	Anmatyerr Bible
+anh_pbt	anh	Nend	Mark in Nend
+anv_wbt	anv	Denya	New Testament in Denya (CM:anv:Denya)
+aoi_bib	aoi	Anindilyakwa	Anindilyakwa Bible
+aoj_fil	aoj	Mufian	Filifita NT
+aoj_wbt	aoj	Mufian	Mufian NT
+aom_tbl	aom	Ömie	Omie NT
+aon_wbt	aon	Bumbita Arapesh	Arapesh NT
+apb_wbt	apb	Sa'a	Sa'a New Testament
+ape_bwb	ape	Bukiyip	Bukiyip NT
+ape_cce	ape	Bukiyip	Coastal Arapesh NT
+apn_wbt	apn	Apinayé	Apinayé NT
+app_pbt	app	Apma	Apma Jona
+apr_wbt	apr	Arop-Lokep	Arop-Lokep
+apu_wbt	apu	Apurinã	Apurinã NT
+apw_wbt	apw	Western Apache	Western Apache NT
+apz_png	apz	Safeyoka	Ampeeli-Wojokeso NT+Genesis
+arb_vdv	arb	Arabic	Arabic Van Dyck Bible
+are_bsa	are	Western Arrarnta	Western Arrarnta NT
+arl_wbt	arl	Arabela	Arabela NT
+arn_sbu	arn	Mapuche	Mapudungun NT
+arp_abs	arp	Arapaho	Arapaho Luke
+asj_wbt	asj	Sari	Sari NT+
+asm_irv	asm	Assamese	Assamese Indian Revised Version Bible
+aso_tbl	aso	Dano	Dano NT
+ata_png	ata	Pele-Ata	Ata Bible
+atb_wbt	atb	Zaiwa	Zaiwa NT
+atd_wbt	atd	Ata Manobo	Ata Manobo NT
+atg_wbt	atg	Ivbie North-Okpela-Arhe	Ivbie North-Okpela-Arhe NT
+att_wbt	att	Pamplona Atta	Pamplona Atta NT
+auc_wbt	auc	Waorani	Waorani NT
+aui_wbt	aui	Anuki	Anuki Bible Portions
+auy_tbl	auy	Awiyaana	Awiyaana NT
+avt_wbt	avt	Au	Au NT
+awb_tbl	awb	Awa (Papua New Guinea)	Awa NT
+awk_bsa	awk	Awabakal	Awabakal Luke
+awx_wbt	awx	Awara	Awara Bible portions
+azb_bsa	azb	South Azerbaijani	Azerbaijani Bible
+azg_tbl	azg	San Pedro Amuzgos Amuzgo	San Pedro Amuzgos NT
+azz_tbl	azz	Highland Puebla Nahuatl	Highland Puebla Nahuatl NT
+bao_ntw	bao	Waimaha	Waimaha NT
+bba_sim	bba	Baatonum	Bariba Bible
+bbb_tbl	bbb	Barai	Barai Bible
+bbr_wbt	bbr	Girawa	Girawa NT
+bch_png	bch	Bariai	Bariai Bible
+bco_wbt	bco	Kaluli	Kaluli Bible portions
+bdd_png	bdd	Bunama	Bunama NT
+bdv_twf	bdv	Bodo Parja	Bodo Parja: BOPO Bible
+bea_bfb	bea	Beaver	Beaver Mark
+bef_wbt	bef	Benabena	Benabena NT
+bel_jfc	bel	Belarusian	Belarusan Bible, A. Boken
+bel_njo	bel	Belarusian	Belarusian New Testament and Books of Old Testament
+ben_irv	ben	Bangla	Bengali Indian Revised Version Bible: ইনডিযান রিভাইজড ভারসন (IRV) - বেঙগলী
+ben_ocv	ben	Bangla	Open Bengali Contemporary Version Bible
+beo_pio	beo	Beami	Bedamuni Bible
+beu_ubb	beu	Blagar	Pura Bible
+bfz_tlf	bfz	Mahasu Pahari	Baghlayani Bible
+bgc_tlf	bgc	Haryanvi	Haryanvi Bible
+bgg_twf	bgg	Bugun	Bugun Bible
+bgs_wbt	bgs	Tagabawa	Tagabawa Bible
+bgt_wbt	bgt	Bughotu	Bughotu New Testament
+bhd_tlf	bhd	Bhadrawahi	Bhadrawahi Bible
+bhg_wbt	bhg	Binandere	Binandere NT
+bhi_twf	bhi	Bhilali	Bhilali: भगवानेन छाचला बुल (Bible)
+bhl_png	bhl	Bimin	Bimin NT
+bht_tlf	bht	Bhattiyali	Bhattiyali Bible
+bhu_twf	bhu	Bhunjia	Bhumiya Bible
+big_tbl	big	Biangai	Biangai NT
+big_wbt	big	Biangai	New Testament in Biangai
+bjk_wbt	bjk	Barok	Barok NT
+bjp_wbt	bjp	Fanamaket	Fanamaket NT
+bjr_wbt	bjr	Binumarien	Binumarien Bible
+bjv_wbt	bjv	Bedjond	Bedjond NT
+bjz_wbt	bjz	Baruga	Baruga NT
+bkd_wbt	bkd	Binukid	Binukid NT
+bki_wbt	bki	Baki	Baki NT
+bkq_wbt	bkq	Bakairí	Bakairí NT
+bkw_wbt	bkw	Bekwel	Bekwel NT
+bkx_ubb	bkx	Baikeno	Baikeno Mark
+bla_cms	bla	Siksiká	Blackfoot Matthew
+blw_wbt	blw	Balangao	Balangao NT
+blz_lai	blz	Balantak	Balantak NT
+bmh_wbt	bmh	Kein	Kein NT
+bmk_wbt	bmk	Ghayavi	Ghayavi Mark
+bmr_wbt	bmr	Muinane	Muinane NT
+bmu_png	bmu	Somba-Siawari	Somba-Siawari Bible
+bnp_wbt	bnp	Bola	Bola Bible
+boa_tbl	boa	Bora	Bora NT
+bod_ntb	bod	Tibetan	New Tibetan Bible
+boj_png	boj	Anjam	Anjam NT 2000
+boj_wbt	boj	Anjam	Anjam NT 2014 + Psalms
+bon_png	bon	Bine	Bine NT
+box_wyi	box	Buamu	Buamu NT
+bpr_wbt	bpr	Koronadal Blaan	Koronadal Blaan NT
+bps_wbt	bps	Sarangani Blaan	Sarangani Blaan NT
+bpx_wft	bpx	Palya Bareli	Bareli, Palya: भगवान ना खरला बोल (Bible)
+bqc_sim	bqc	Boko (Benin)	Boko (Benin) Bible
+bqp_sim	bqp	Busa	Bisa Bible
+bre_brg	bre	Breton	Breton Gospels
+bsj_doo	bsj	Bangwinji	Bangwinji NT
+bsn_tbl	bsn	Barasana-Eduria	Barasana-Eduria NT
+bsp_pbt	bsp	Baga Sitemu	Baga Sitemu Bible Portions
+bss_wbt	bss	Akoose	Akoose NT
+bsw_etw	bsw	Baiso	Baiso: አማቶ ኦኡሱብ (New Testament)
+bsw_ltw	bsw	Baiso	Baiso NT (Latin)
+buk_lbt	buk	Bugawac	Bukawa NT
+bus_sim	bus	Bokobaru	Bokobaru Bible
+bvd_wbt	bvd	Baeggu	Baegu New Testament
+bvr_wbt	bvr	Burarra	Burarra Scriptures
+bwo_twf	bwo	Boro (Ethiopia)	Borna NT Latin Version
+bxh_wbt	bxh	Buhutu	Buhutu Bible
+byr_png	byr	Baruya	Baruya NT+Genesis
+byr_wag	byr	Baruya	Yipma Wagamwa NT
+byx_png	byx	Qaqet	Qaqet Bible
+bzd_wbt	bzd	Bribri	Bribri Bible
+bzh_png	bzh	Mapos Buang	Buang NT
+bzj_wbt	bzj	Belize Kriol English	New Testament in Belize Kriol English (BH:bzj:Belize Kriol English)
+caa_wbt	caa	Chortí	Chorti Bible
+cab_png	cab	Garifuna	Suau Bible
+cac_wbt	cac	Chuj	Chuj San Mateo Bible
+caf_wbt	caf	Southern Carrier	Southern Carrier NT
+cak_eas	cak	Kaqchikel	Eastern Kaqchikel NT
+cak_sbg	cak	Kaqchikel	Kaqchikel NT
+cak_sds	cak	Kaqchikel	Kaqchikel Sur de Sacatepequez NT
+cak_smj	cak	Kaqchikel	Santa Maria de Jesus Kaqchikel NT
+cak_sou	cak	Kaqchikel	Kaqchikel Chimaltenango NT
+cak_swy	cak	Kaqchikel	SW Yepocapa and Acatenango Kaqchikel NT
+cak_wes	cak	Kaqchikel	Western Solola Kaqchikel NT
+cao_wbt	cao	Chácobo	Chácobo NT
+cap_sbb	cap	Chipaya	Chipaya NT
+cav_wbt	cav	Cavineña	Cavineña NT
+cax_sbb	cax	Chiquitano	Chiquitano NT
+cbc_wbt	cbc	Carapana	Carapana NT
+cbi_wbt	cbi	Chachi	Chachi Bible
+cbk_wbt	cbk	Chavacano	Chavacano NT
+cbr_wbt	cbr	Cashibo-Cacataibo	Cashibo-Cacataibo NT
+cbs_wbt	cbs	Cashinahua	Kashinawa NT
+cbt_wbt	cbt	Chayahuita	Chayahuita NT
+cbu_wbt	cbu	Candoshi-Shapra	Candoshi-Shapra NT
+cbv_wbt	cbv	Cacua	Cacua NT
+cco_tbl	cco	Comaltepec Chinantec	Comaltepec Chinantec NT
+cdz_bcs	cdz	Koda	Koda Bible
+ceb_ocb	ceb	Cebuano	Cebuano: Biblica® Open Ang Pulong sa Dios (Bible)
+ceb_ulb	ceb	Cebuano	Cebuano Bible
+cek_akb	cek	Eastern Khumi Chin	Asang Khongca Bible
+ces_bib	ces	Czech	Czech Living New Testament
+ces_bkr	ces	Czech	Czech Kralická Bible 1613
+ces_nkb	ces	Czech	Czech NBK NT
+cgc_wbt	cgc	Kagayanen	Kagayanen NT
+cha_pga	cha	Chamorro	Chamorro Gospels, Acts, and Psalms
+chd_wbt	chd	Highland Oaxaca Chontal	Highland Oaxaca Chontal NT
+chf_tbl	chf	Tabasco Chontal	Tabasco Chontal NT
+chk_bsm	chk	Chuukese	Chuukese Bible
+chq_wbt	chq	Quiotepec Chinantec	Quiotepec Chinantec NT
+chz_wbt	chz	Ozumacín Chinantec	Ozumacín Chinantec NT
+cjo_wbt	cjo	Ashéninka Pajonal	Ashéninka Pajonal NT
+cjv_tbl	cjv	Chuave	Chuave NT
+ckb_bib	ckb	Central Kurdish	Kurdish Sorani Bible
+cle_tbl	cle	Lealao Chinantec	Lealao Chinantec NT
+clu_wbt	clu	Caluyanun	Caluyanun NT
+cme_ntw	cme	Cerma	New Testament in Cerma (UV:cme:Cerma)
+cmn_cbs	cmn	Chinese	Mandarin Chinese Open Contemporary Bible (Simplified)
+cmn_cbt	cmn	Chinese	Chinese, Mandarin: Biblica® 聖經,當代譯本開放資源 (Bible)
+cmn_cu1	cmn	Chinese	Chinese Union Version (simplified)
+cmn_cuv	cmn	Chinese	Chinese Union Version (traditional)
+cmn_feb	cmn	Chinese	Chinese, Mandarin: 免费的易读圣经 Free Easy-to-read Bible (Bible)
+cni_wbt	cni	Asháninka	Asháninka NT
+cnl_tbl	cnl	Lalana Chinantec	Lalana Chinantec NT
+cnq_wbt	cnq	Chung	Chung NT+
+cnt_tbl	cnt	Tepetotutla Chinantec	Tepetotutla Chinantec NT
+cof_wbt	cof	Colorado	Colorado NT
+con_wbt	con	Cofán	Cofán Bible
+cop_bhc	cop	Coptic	Coptic Boharic NT
+cop_cnt	cop	Coptic	Coptic NT
+cop_shc	cop	Coptic	Coptic Sahidic NT
+cot_ntw	cot	Caquinte	New Testament in Caquinte (PE:cot:Caquinte)
+cpa_tbl	cpa	Palantla Chinantec	Palantla Chinantec NT
+cpb_wbt	cpb	Ucayali-Yurúa Ashéninka	Ucayali-yurúa Ashéninka NT
+cpc_wbt	cpc	Ajyíninka Apurucayali	Ajyíninka Apurucayali NT
+cpu_wbt	cpu	Pichis Ashéninka	Pichis Ashéninka NT
+cpy_wbt	cpy	South Ucayali Ashéninka	South Ucayali Ashéninka Bible
+crn_wbt	crn	El Nayar Cora	El Nayar Presidio De Los Reyes Cora NT
+crx_wbt	crx	Carrier	Carrier NT
+cso_tbl	cso	Sochiapam Chinantec	Sochiapam Chinantec NT
+csy_skb	csy	Siyin Chin	Siyin Chin NT
+cta_wbt	cta	Tataltepec Chatino	Tataltepec Chatino NT
+cth_bcf	cth	Thaiphum Chin	Thai Phum Bible
+ctp_wbt	ctp	Western Highland Chatino	Western Highland Chatino NT
+ctu_976	ctu	Chol	Chol NT
+ctu_cti	ctu	Chol	Chol de Tila Bible
+ctu_wbt	ctu	Chol	Chol Tumbala Bible
+cub_wbt	cub	Cubeo	Cubeo NT
+cuc_tbl	cuc	Usila Chinantec	Usila Chinantec NT
+cui_wbt	cui	Cuiba	Cuiba NT
+cuk_nvs	cuk	San Blas Kuna	San Blas Kuna Bible
+cuk_wb9	cuk	San Blas Kuna	San Blas Kuna NT 2009
+cut_wbt	cut	Teutila Cuicatec	Teutila NT
+cux_wbt	cux	Tepeuxila Cuicatec	Tepeuxila Cuicatec NT
+cwe_pbt	cwe	Kwere	Kwere NT
+cya_wbt	cya	Nopala Chatino	Nopala Chatino NT
+daa_wyi	daa	Dangaléat	Dangaléat NT
+dad_wbt	dad	Marik	Marik NT
+dah_png	dah	Gwahatike	Gwahatike NT
+dan_det	dan	Danish	Danish Bible 1931
+dao_twf	dao	Daai Chin	Daai Chin NT
+ded_wbt	ded	Dedua	Dedua NT+Psalms
+deu_elbbk	deu	German	German ELBBK Bible
+deu_elo	deu	German	German Unrevised Elberfelder Bible
+deu_l12	deu	German	German Luther Bible 1912
+deu_sch	deu	German	German Schlachter Bible 1951
+deu_tkw	deu	German	German Textbibel
+dgc_wbt	dgc	Casiguran Dumagat Agta	Casiguran Dumagat Agta NT
+dgr_cbs	dgr	Dogrib	Dogrib Bible
+dgz_wbt	dgz	Daga	Daga Bible
+dhg_dol	dhg	Dhangu-Djangu	Warramiri Ḏolttji Selections
+dhg_duw	dhg	Dhangu-Djangu	Dhuwa-Dhaŋu'mi Mark + Selections
+dhn_twf	dhn	Dhanki	Dhanki: परमेशवरन सतय वचन The New Testament in the Dhanki language of India, Devanagari script
+dif_lut	dif	Dieri	Dieri NT
+dik_wbt	dik	Dinka	Southwestern Dinka NT
+dji_wbt	dji	Djinang	Djinang Bible Portions
+djj_wbt	djj	Djeebbana	Ndjébbana Bible Portions
+djk_wbt	djk	Eastern Maroon Creole	Eastern Maroon Creole NT
+djr_bib	djr	Djambarrpuyngu	Djambarrpuyngu NT
+dne_twf	dne	Ndendeule	Ndendeule NT
+dnv_twf	dnv	Danu	Danu NT
+dob_png	dob	Dobu	Dobu NT
+dop_sim	dop	Lukpa	Lokpa Bible
+dov_d43	dov	Dombe	Dombe NT
+dso_twf	dso	Desiya	Desiya NT
+dwr_ent	dwr	Dawro	Dawro Bible (Ethoipic script)
+dwr_ltw	dwr	Dawro	The Holy Bible in the Dawuro language of Ethiopia, Latin script
+dwr_tbl	dwr	Dawro	Dawro NT (Latin script)
+dwu_liv	dwu	Dhuwal	Liyagawumirr Luke
+dwu_wbt	dwu	Dhuwal	Dhuwal Selections
+dww_tbl	dww	Dawawa	Dawawa NT
+dwy_bsa	dwy	Dhuwaya	Dhuwaya Mark + Acts 1:8-11
+ebk_wbt	ebk	Eastern Bontok	Eastern Bontok NT
+ekk_bib	ekk	Estonian	Estonian Contemporary NT
+ekk_pkp	ekk	Estonian	Estonian Bible: Piibel Kõigile
+eko_wbt	eko	Koti	Kote Bible
+emi_wbt	emi	Mussau-Emira	Mussau-Emira Bible
+emp_wyi	emp	Northern Emberá	Northern Emberá NT
+ena_pbt	ena	Apali	Apali NT
+eng_abt	eng	English	ASV Byzantine Text
+eng_aoi	eng	English	Anindilyakwa English Bible
+eng_asv	eng	English	American Standard Version (1901)
+eng_bar	eng	English	Barkly Bible Portions
+eng_bbe	eng	English	Bible in Basic English
+eng_boy	eng	English	Updated Brenton English Septuagint
+eng_bre	eng	English	Brenton English Septuagint
+eng_cpb	eng	English	KJV Cambridge Paragraph
+eng_dby	eng	English	Darby Translation
+eng_dra	eng	English	Douay-Rheims 1899
+eng_emtv	eng	English	English Majority Text Version
+eng_f35	eng	English	Family 35 NT
+eng_fbv	eng	English	Free Bible Version
+eng_glw	eng	English	God's Living Word
+eng_gnv	eng	English	Geneva Bible 1599
+eng_jps	eng	English	JPS TaNaKH 1917
+eng_kja	eng	English	King James Version + Apocrypha
+eng_kjv	eng	English	King James Version
+eng_lee	eng	English	Leeser Tanakh
+eng_lsv	eng	English	English LSV
+eng_lxu	eng	English	British English Septuagint 2012
+eng_lxx	eng	English	LXX2012 U. S. English
+eng_msb	eng	English	Majority Standard BIble
+eng_net	eng	English	NET Bible
+eng_nna	eng	English	Nyangumarta English Bible
+eng_noy	eng	English	Noyes Bible
+eng_ojb	eng	English	The Orthodox Jewish Bible -  Tanakh and Orthodox Jewish Brit Chadasha - The Holy Bible
+eng_oke	eng	English	Targum Onkelos Etheridge
+eng_our	eng	English	One Unity Resource Bible
+eng_pev	eng	English	Plain English Version
+eng_rv5	eng	English	Revised Version
+eng_t4t	eng	English	Translation for Translators
+eng_tce	eng	English	Text-Critical English NT
+eng_tnt	eng	English	Tyndale NT
+eng_ulb	eng	English	Unlocked Literal Bible
+eng_w88	eng	English	Wycliffe Bible portions
+eng_wbs	eng	English	Webster Bible
+eng_web	eng	English	World English Bible Classic
+eng_webc	eng	English	World English Bible (Catholic)
+eng_webpb	eng	English	World English Bible British Edition
+eng_webu	eng	English	World English Bible Updated
+eng_weu	eng	English	World English Bible British Edition with Deuterocanon
+eng_wmb	eng	English	World Messianic Bible
+eng_wmu	eng	English	World Messianic Bible British Edition
+eng_wyc2017	eng	English	English: Wycliffe's Bible Modern Spelling (with Deuterocanon)
+eng_wyc2018	eng	English	English: Wycliffe's Bible Modern Spelling (Enhanced) (with Deuterocanon)
+eng_ylt	eng	English	Young's Literal Translation
+enq_pn2	enq	Enga	Enga NT
+epo_bfb	epo	Esperanto	Esperanto Bible
+eri_wbt	eri	Ogea	Ogea NT
+ese_wbt	ese	Ese Ejja	Ese Ejja NT
+esk_wbt	esk	Inupiaq	Northwest Alaska Eskimo NT
+etr_tbl	etr	Edolo	Edolo Bible
+ewe_bib	ewe	Ewe	Éwé Bible
+faa_wbt	faa	Fasu	Fasu NT
+fad_wbt	fad	Wagi	Wagi Luke
+fai_png	fai	Faiwol	Faiwol NT
+far_wbt	far	Fataleka	Fataleka New Testament
+ffm_wbt	ffm	Maasina Fulfulde	Maasina Fulfulde NT
+fin_bib	fin	Finnish	Finnish: Biblica® Avoin Elävä uutinen: Uusi testamentti vapaasti kerrottuna (New Testament)
+for_nyb	for	Fore	Fore NT
+fra_jnd	fra	French	French: Bible J.N. Darby
+fra_lsg	fra	French	French Louis Segond 1910 Bible
+fra_ncl	fra	French	French néo-Crampon Libre
+fra_ost	fra	French	French Ostervald Bible
+fue_sim	fue	Borgu Fulfulde	Fulfulde Borgu NT
+fuf_pbt	fuf	Pular	Pular Fuuta-Jallon New Testament
+fuh_sim	fuh	Western Niger Fulfulde	Fulfulde Burkina NT
+gah_png	gah	Alekano	Alekano Bible
+gai_pbt	gai	Borei	New Testament in Mborena Kam language
+gam_wbt	gam	Kandawo	Kandawo NT
+gaq_twf	gaq	Gata'	Gata Didayi NT
+gaw_wbt	gaw	Nobonob	Nobnob NT
+gax_twf	gax	Borana-Arsi-Guji Oromo	Guji Oromo Bible
+gaz_bib	gaz	Oromo	New Oromo Contemporary Version
+gaz_ebi	gaz	Oromo	West Central Oromo Bible
+gbl_bey	gbl	Gamit	Gamit Bible
+gdf_tsc	gdf	Guduf-Gava	Guduf-Gava NT
+gdn_png	gdn	Umanakaina	Umanakaina NT
+gdr_png	gdr	Wipi	Wipi NT
+geb_pbt	geb	Kire	Kire NT
+gel_wbt	gel	ut-Ma'in	ut-Ma’in: ut-Mai'n Scripture portions (Bible)
+gfk_hwb	gfk	Patpatar	Hinsaal NT
+gfk_swb	gfk	Patpatar	Sokarek NT
+gfk_tbl	gfk	Patpatar	Patpatar NT and Psalms
+gge_wbt	gge	Gurr-goni	Gurrgoni Selections
+ghn_ibm	ghn	Ghanongga	Ghanongga: Kubokota Adapt New Testament (Bible)
+ghs_wbt	ghs	Guhu-Samane	Guhu-Samane NT
+gia_bsa	gia	Kija	Kitja Jonah
+glk_glk	glk	Gilaki	Gilaki John
+glw_llu	glw	Glavda	Glavda NT Portion
+gmv_etw	gmv	Gamo	Gamo Bible
+gmv_ggm	gmv	Gamo	Gamo NT
+gmv_ltw	gmv	Gamo	Gamo Bible (Latin)
+gmv_wbt	gmv	Gamo	Gamo NT
+gng_wyi	gng	Ngangam	Ngangam NT
+gnn_bsa	gnn	Gumatj	Gumatj Bible
+gnw_wbt	gnw	Western Bolivian Guaraní	Western Bolivian Guaraní NT
+gof_etw	gof	Gofa	Gofa: ጌሻ ማፃፋ Bible
+gof_ltw	gof	Gofa	Gofa Bible Latin
+gof_tbl	gof	Gofa	Gofa NT (Ethiopic script)
+gof_wftw	gof	Gofa	Gofa NT
+goj_twf	goj	Gowlan	Gowlan NT
+gok_twf	gok	Gowli	Gawli NT
+grc_bre	grc	Ancient Greek	Brenton Septuagint
+grc_byz	grc	Ancient Greek	Byzantine Greek  NT
+grc_f35	grc	Ancient Greek	Greek NT Family 35
+grc_gtr	grc	Ancient Greek	Textus Receptus
+grc_mtk	grc	Ancient Greek	Greek Majority Text NT
+grc_sbl	grc	Ancient Greek	SBL Greek NT
+grc_srg	grc	Ancient Greek	Solid Rock Greek New Testament
+grc_tcg	grc	Ancient Greek	Text-Critical Greek NT
+grc_tis	grc	Ancient Greek	Tischendorf Greek NT
+gub_wbt	gub	Guajajára	Guajajára Bible
+gue_wbt	gue	Gurindji	Gurindji Scripture Portions
+guf_wbt	guf	Gupapuyngu	Gupapuyngu Bible Portions
+guh_wbt	guh	Guahibo	Guahibo NT
+gui_sbu	gui	Eastern Bolivian Guaraní	Eastern Bolivian Guaraní NT
+guj_irv	guj	Gujarati	Gujarati Indian Revised Version Bible
+gul_wbt	gul	Sea Island Creole English	Sea Island Creole English NT
+gum_tbl	gum	Guambiano	Guambiano NT
+gun_wbt	gun	Mbyá Guaraní	Mbyá Guaraní NT
+guo_wbt	guo	Guayabero	Guayabero NT
+gup_bsa	gup	Gunwinggu	Kunwinjku Bible
+gup_kwb	gup	Gunwinggu	Kuninjku Gospel Selections
+gup_may	gup	Gunwinggu	Mayali Selections
+gux_ulb	gux	Gourmanchéma	Gourmanchéma NT
+gvc_wbt	gvc	Guanano	Guanano NT
+gvf_wbt	gvf	Golin	Golin NT
+gvn_wbt	gvn	Kuku-Yalanji	Kuku-Yalanji Bible
+gvs_wbt	gvs	Gumawana	Gumawana Bible
+gwi_wbt	gwi	Gwichʼin	Gwich'in NT
+gyl_twf	gyl	Gayil	Goyil NT
+gym_wbt	gym	Ngäbere	Ngäbere NT
+gyr_wbt	gyr	Guarayu	Guarayu NT
+gyz_sco	gyz	Geji	Geji NT
+hat_bsa	hat	Haitian Creole	Haitian Creole Bible 2023
+hat_pds	hat	Haitian Creole	Haitian Creole Bible 1985
+hau_bib	hau	Hausa	Hausa Contemporary Bible
+hau_ulb	hau	Hausa	Hausa NT
+hav_tsc	hav	Havu	Havu NT
+haw_868	haw	Hawaiian	Hawaiian Bible 1868
+hbo_wlc	hbo	Ancient Hebrew	Westminster Leningrad Codex Hebrew OT
+hch_wb2	hch	Huichol	Huichol Bible 2020
+hch_wbt	hch	Huichol	Huichol NT 1988
+heb_lbm	heb	Hebrew	Hebrew Living NT
+heb_mod	heb	Hebrew	Modern Hebrew Bible
+heb_scg	heb	Hebrew	Salkinson Hebrew NT
+heb_wlc	heb	Hebrew	Hebrew OT (WLC)
+heg_wbt	heg	Helong	Helong Bible
+hil_bib	hil	Hiligaynon	Hiligaynon: Biblica® Libre Ang Pulong Sang Dios (Bible) for the Philippines
+hin_cvb	hin	Hindi	Hindi Contemporary Version Bible
+hix_wbt	hix	Hixkaryána	Hixkaryána NT
+hla_png	hla	Halia	Halia NT
+hlb_twf	hlb	Halbi	Halbi NT
+hlt_mcs	hlt	Matu Chin	Matupi Chin Standard Bible w/ Strongs
+hlt_thb	hlt	Matu Chin	Tuivang Matu Chin Bible
+hmo_png	hmo	Hiri Motu	Hiri Motu Bible
+hne_twf	hne	Chhattisgarhi	Chhattisgarhi Bible
+hns_wbt	hns	Caribbean Hindustani	Caribbean Hindustani NT
+hop_wbt	hop	Hopi	Hopi NT
+hot_wbt	hot	Hote	Malei-Hote NT
+hoy_twf	hoy	Holiya	Holiya Bible
+hre_bth	hre	Hre	Hre NT (Baq Thi)
+hru_bcs	hru	Hruso	Hruso: Aka (Hrusso) Bible (Portions)
+hrv_bib	hrv	Croatian	Croatian NT (Biblica)
+hrv_iva	hrv	Croatian	Croatian Bible
+hrw_wbt	hrw	Warwar Feni	Feni NT
+hto_wbt	hto	Minica Huitoto	Minica Huitoto NT
+hub_wbt	hub	Huambisa	Huambisa NT
+hui_png	hui	Huli	Huli Bible
+hun_bib	hun	Hungarian	Hungarian Bible
+hus_tbl	hus	Huastec	Huastec Aquiche NT
+hus_wbt	hus	Huastec	Huastec San Luis Potosi NT
+huu_wbt	huu	Murui Huitoto	Murui Huitoto
+huv_tbl	huv	San Mateo Del Mar Huave	San Mateo Del Mar Huave NT
+hvn_ubb	hvn	Sabu	Hawu Mark
+hwo_tsc	hwo	Hwana	Hwana Bible
+ian_wbt	ian	Iatmul	Iatmul NT
+ibd_wbt	ibd	Iwaidja	Iwaidja Selections
+ibo_bib	ibo	Igbo	Igbo Bible
+idc_sco	idc	Idon	Ajiya: Ajigha NT Portion (New Testament)
+ign_sbb	ign	Ignaciano	Ignaciano NT
+ikk_wbt	ikk	Ika	Ika NT
+ikw_wbt	ikw	Ikwere	Ikwere NT
+ikz_wbt	ikz	Ikizu	Ikizu NT
+ilo_ulb	ilo	Iloko	Ilocano Bible
+imo_tbl	imo	Imbongu	Imbo Ungu NT
+inb_wbt	inb	Inga	Inga NT
+ind_ags	ind	Indonesian	Indonesian Bible for All
+ind_ayt	ind	Indonesian	Indonesian AYT Bible
+ind_obo	ind	Indonesian	Indonesian Bible (TSI)
+ino_tbl	ino	Inoke-Yate	Inoke-Yate NT
+ino_wbt	ino	Inoke-Yate	New Testament in Inoke-Yate
+iou_tbl	iou	Tuma-Irumu	Tuma-Irumu Bible
+ipi_png	ipi	Ipili	Ipili Bible
+isl_bib	isl	Icelandic	Icelandic: Biblica® Opna Lifandi Orð Nýja testamentið og SálmarnirTM (New Testament+)
+isn_ulb	isn	Isanzu	Isanzu NT
+ita_dio	ita	Italian	Italian Diodati Bible
+ita_riv	ita	Italian	Italian Riveduta Bible
+iws_tbl	iws	Sepik Iwam	Sepik Iwam NT
+ixl_wbt	ixl	Ixil	Ixil Nebaj NT
+iyx_wbt	iyx	Yaka (Congo)	Ivatan Bible
+jac_wbt	jac	Popti'	Eastern Jakalteko NT
+jae_png	jae	Yabem	Yabem Bible
+jao_wbt	jao	Yanyuwa	Yanyuwa Bible portions
+jay_wbt	jay	Yan-nhangu	Yan-nhangu Selections
+jic_wbt	jic	Tol	Tol NT
+jid_nbt	jid	Bu (Kaduna State)	Bu NT
+jiv_aie	jiv	Shuar	New Testament in Shuar
+jni_ulb	jni	Janji	Janji NT
+jnj_etw	jnj	Yemsa	Yemsa NT Ethiopic
+jnj_ltw	jnj	Yemsa	Yemsa NT Latin
+jpn_loc	jpn	Japanese	New Japanese NT
+jum_pbt	jum	Jumjum	Jumjum Bible
+juy_twf	juy	Juray	Juray: ଆଜାଡି ତଙରନ‌ (Bible)
+jvn_wbt	jvn	Caribbean Javanese	Caribbean Javanese NT
+kan_irv	kan	Kannada	Kannada Indian Revised Version Bible
+kan_okcv	kan	Kannada	Kanada Open Contemporary Version Bible
+kan_swf	kan	Kannada	Siddi NT
+kaq_wbt	kaq	Capanahua	Capanahua NT
+kbc_wbt	kbc	Kadiwéu	Kadiwéu NT
+kbh_wbt	kbh	Camsá	Camsá NT
+kbm_tbl	kbm	Iwal	Iwal NT
+kbq_wbt	kbq	Kamano	Kamano-Kafe Bible
+kca_ibt	kca	Khanty	Khanty Bible
+kdc_014	kdc	Kutu	Kutu NT 2014
+kdc_pbt	kdc	Kutu	Kutu NT
+kde_wbt	kde	Makonde	Makonde Bible
+kdl_ldt	kdl	Tsikimba	Tsikimba OT
+kdl_wbt	kdl	Tsikimba	Tsikimba NT
+kek_ibs	kek	Kekchí	Q'eqchi' Bible
+ken_wbt	ken	Kenyang	Kenyang NT
+kew_png	kew	West Kewa	West Kewa Bible
+kfc_pwf	kfc	Konda-Dora	The New Testament in the Konda Porja Language of India. Konda-Dora: ମାପୁରୁଦି ସତ‌ ବାକୟ (Bible)
+kff_twf	kff	Koya	Koya NT
+kfw_twf	kfw	Kharam Naga	Kharam NT
+kgf_gbt	kgf	Kube	Kube NT+Psalms
+kgk_wbt	kgk	Kaiwá	Kaiwá NT
+kgp_wbt	kgp	Kaingang	Kaingang NT
+khj_lis	khj	Kuturmi	Kuturmi NT
+khs_wbt	khs	Kasua	Kasua NT
+khz_png	khz	Keapara	Keapara Kalo NT
+kij_png	kij	Kilivila	Kilivila: Buki Pilabumaboma Kabutubogwa Deli Kabutuvau Bible
+kik_bib	kik	Kikuyu	Kikuyu Bible
+kiw_wbt	kiw	Northeast Kiwai	Kope Luke
+kiz_ulb	kiz	Kisi	Kisi NT
+kje_wbt	kje	Kisar	Kisar NT
+kjn_wbt	kjn	Kunjen	Kunjen Mark Portions
+kjs_wbt	kjs	East Kewa	East Kewa NT
+kkc_wbt	kkc	Odoodee	Odoodee partial NT
+kkl_wbt	kkl	Kosarek Yale	Mek Kosarek Bible
+kky_laa	kky	Guugu Yimidhirr	Gugu Yimidhirr Matthew Sample
+klg_wbt	klg	Tagakaulo	Tagakaulo NT
+klt_wbt	klt	Nukna	Nukna Bible
+klv_wbt	klv	Maskelynes	Maskelynes NT
+kmg_png	kmg	Kâte	Kâte NT
+kmh_kal	kmh	Kalam	Kalam NT
+kmh_min	kmh	Kalam	Minimib NT
+kmk_wbt	kmk	Limos Kalinga	Limos Kalinga NT
+kmo_bil	kmo	Kwoma	Washkuk NT
+kms_png	kms	Kamasau	Kamasau NT
+kmu_tbl	kmu	Kanite	Kanite NT
+knf_wbt	knf	Mankanya	Mankanya NT and partial OT
+knj_wbt	knj	Western Kanjobal	Akateko NT
+knv_ara	knv	Tabo	Tabo Aramia NT
+knv_png	knv	Tabo	Tabo Fly River NT
+kor_old	kor	Korean	Korean Bible 1910
+kos_pub	kos	Kosraean	Kosraean Bible
+kpf_png	kpf	Komba	Komba NT
+kpg_kpt	kpg	Kapingamarangi	Kapingamarangi Bible
+kpj_wbt	kpj	Karajá	Karajá NT
+kpr_tbl	kpr	Korafe-Yegha	Korafe NT+Psalms
+kpw_png	kpw	Kobon	Kobon NT
+kpx_tbl	kpx	Mountain Koiali	Mountain Koiali NT
+kqa_pbt	kqa	Mum	Mum NT Portions
+kqc_wbt	kqc	Doromu-Koki	Doromu-Koki Bible
+kqf_wbt	kqf	Kakabai	Kakabai Bible portions
+kql_pbt	kql	Kyenele	Kyenele Mark
+kqw_win	kqw	Kandas	Kandas NT
+krh_itd	krh	Kurama	Kurama: Akurumi NT Portion (New Testament)
+ksd_png	ksd	Kuanua	Kauana Bible
+ksj_wbt	ksj	Uare	Uare NT
+ksr_png	ksr	Borong	Borong NT + OT portions
+ktm_wbt	ktm	Kurti	Kurti Scripture Portions
+kto_png	kto	Kuot	Kuot NT
+kud_png	kud	'Auhelawa	'Auhelawa NT
+kud_wbt	kud	'Auhelawa	’Auhelawa: Yaubada Yana Walo Yemidi Vauvauna New Testament
+kue_png	kue	Kuman (Papua New Guinea)	Kuman NT
+kup_tbl	kup	Kunimaipa	Kunimaipa NT
+kux_wbt	kux	Kukatja	Kukatja Bible portions
+kvg_wbt	kvg	Kuni-Boazi	Kuni-Boazi Bible
+kvn_wbt	kvn	Border Kuna	Border Kuna NT
+kwd_wbt	kwd	Kwaio	Kwaio NT
+kwf_wbt	kwf	Kwara'ae	Kwara'ae Bible
+kwi_wbt	kwi	Awa-Cuaiquer	Awa-Cuaiquer NT
+kwj_wbt	kwj	Kwanga	Kwanga NT
+kxv_wft	kxv	Kuvi	The New Testament in the Kuvi language of India: ପୁଃନି ମେରା (Bible)
+kxw_wbt	kxw	Konai	Konai NT
+kyc_png	kyc	Kyaka	Kyaka Enga Bible
+kyf_wbt	kyf	Kouya	Kouya NT
+kyg_tbl	kyg	Keyagana	Keyagana Bible
+kyq_wbt	kyq	Kenga	Kenga NT
+kyz_wbt	kyz	Kayabí	Kayabí NT
+kze_wbt	kze	Kosena	Kosena NT
+lac_tbl	lac	Lacandon	Lacandon NT
+lag_wbt	lag	Langi	Rangi NT
+lat_clv	lat	Latin	Clementine Vulgate 1598
+lbb_wbt	lbb	Label	Label NT
+lbk_wbt	lbk	bnc	Central Bontok NT
+lbm_twf	lbm	Lodhi	Lodhi NT
+lcm_png	lcm	Tungag	Tungag Bible
+ldb_wbt	ldb	Dũya	Duya NT
+leu_png	leu	Kara (Papua New Guinea)	Kara NT
+lex_wbt	lex	Luang	Luang Bible
+lga_sco	lga	Lungga	Lungga Bible
+lgl_wbt	lgl	Wala	Wala New Testament
+lid_wbt	lid	Nyindrou	Nyndrou NT + OT portions
+lif_dev	lif	Limbu	Limbu NT (Devangari Script)
+lif_wbt	lif	Limbu	Limbu NT (Limbu Script)
+lin_bib	lin	Lingala	Lingala Bible
+lit_bbi	lit	Lithuanian	Open Lithuanian Scriptures
+lit_tpv	lit	Lithuanian	Lithuanian Believers' Heritage Translation
+llg_ubb	llg	Lole	Rote Lole Bible
+lng_wbt	lng	Langobardic	Larrakia Christmas Story
+lth_wbt	lth	Thur	Thur NT+
+lug_bib	lug	Ganda	Luganda Bible
+luo_bib	luo	Luo	Dholuo Bible
+lww_wbt	lww	Lewo	Lewo NT
+lyn_twf	lyn	Luyana	Luyana NT
+maa_sjv	maa	San Jerónimo Tecóatl Mazatec	San Jerónimo Tecóatl Mazatec NT
+maj_btt	maj	Jalapa De Díaz Mazatec	Jalapa de Díaz Mazatec NT
+mal_bib	mal	Malayalam	Malayalam Contemporary Bible
+mal_fbf	mal	Malayalam	Malayalam 1910  Contemporary Orthography
+mal_irv	mal	Malayalam	Malayalam Indian Revised Version Bible
+mam_com	mam	Mam	Mam Comitancillo NT
+mam_sbg	mam	Mam	Mam Todos Santos NT
+maq_tbl	maq	Chiquihuitlán Mazatec	Chiquihuitlán Mazatec NT
+mar_cbi	mar	Marathi	Marathi: Biblica®
+mar_irv	mar	Marathi	Marathi Indian Revised Version Bible
+mau_wbt	mau	Huautla Mazatec	Huautla Mazatec NT
+mav_wbt	mav	Sateré-Mawé	Sateré-Mawé NT
+maz_tbl	maz	Central Mazahua	Central Mazahua NT
+mbb_wbt	mbb	Western Bukidnon Manobo	Western Bukidnon Manobo OT
+mbc_wbt	mbc	Macushi	Macushi NT
+mbh_tbl	mbh	Mangseng	Mangseng NT
+mbj_wbt	mbj	Nadëb	Nadëb NT
+mbl_wbt	mbl	Maxakalí	Maxakalí NT
+mbs_wbt	mbs	Sarangani Manobo	Sarangani Manobo NT
+mbt_wbt	mbt	Matigsalug Manobo	Matigsalug Manobo NT
+mbu_tsc	mbu	Mbula-Bwazza	Mbula-Bwazza NT+
+mca_wbt	mca	Maca	Maka NT
+mcb_wbt	mcb	Machiguenga	Machiguenga NT
+mcd_wbt	mcd	Sharanahua	Sharanahua NT
+mcf_wbt	mcf	Matsés	Matsés NT
+mco_tbl	mco	Coatlán Mixe	Coatlán Mixe NT
+mcp_wbt	mcp	Makaa	Makaa NT
+mcq_spp	mcq	Ese	Managalasi NT
+mcr_wbt	mcr	Menya	Menya NT
+mdy_bse	mdy	Male (Ethiopia)	Maale NT
+mdy_twf	mdy	Male (Ethiopia)	Maale Bible (Ethiopic script)
+med_png	med	Melpa	Melpa NT
+mee_tbl	mee	Mengen	Mengen NT
+mek_png	mek	Mekeo	Mekeo NT
+meq_wbt	meq	Merey	Merey NT
+met_wbt	met	Mato	Mato Bible
+meu_png	meu	Motu	Motu Bible
+mey_pbt	mey	Hassaniyya	Hassaniyya Bible
+mfm_sco	mfm	Marghi South	Marghi South NT
+mfo_lis	mfo	Mbe	Mbe OT
+mfx_ewf	mfx	Melo	Melo NT Ethiopic
+mfx_ltw	mfx	Melo	Melo NT
+mgc_pbt	mgc	Morokodo	Morokodo Bible Portions
+mgh_wbt	mgh	Makhuwa-Meetto	Makhuwa-Meetto NT
+mgh_wft	mgh	Makhuwa-Meetto	Makhuwa-Meetto: Makua New Testament 2015 New Testament
+mgj_lis	mgj	Abureni	Abureni NT
+mgv_twf	mgv	Matengo	Matengo: Amatengu (New Testament)
+mgw_pbt	mgw	Matumbi	Matumbi NT
+mhl_png	mhl	Mauwake	Mauwake NT
+mib_wbt	mib	Atatláhuca Mixtec	Atatláhuca Mixtec
+mic_cbs	mic	Mi'kmaw	Mi'kmaq NT
+mie_tbl	mie	Ocotepec Mixtec	Ocotepec Mixtec
+mig_wbt	mig	San Miguel El Grande Mixtec	San Miguel el Grande Mixtec NT
+mih_wbt	mih	Chayuco Mixtec	Chayuco Mixtec NT
+mil_tbl	mil	Peñoles Mixtec	Peñoles Mixtec NT
+mio_wbt	mio	Pinotepa Nacional Mixtec	Pinotepa Nacional Mixtec NT
+mir_tbl	mir	Isthmus Mixe	Isthmus Mixe NT
+mit_ntw	mit	Southern Puebla Mixtec	New Testament in Mixtec, Southern Puebla (MX:mit:Mixtec, Southern Puebla)
+miz_tbl	miz	Coatzospan Mixtec	Coatzospan Mixtec NT
+mjc_wbt	mjc	San Juan Colorado Mixtec	San Juan Colorado Mixtec NT
+mkj_mok	mkj	Mokilese	Mokilese Bible
+mkl_sim	mkl	Mokole	Monkole NT
+mkn_ubb	mkn	Kupang Malay	Kupang Malay Bible
+mks_tbl	mks	Silacayoapan Mixtec	Silacayoapan Mixtec NT
+mkw_wbt	mkw	Kituba (Congo)	Kituba Bible
+mle_wbt	mle	Manambu	Manabu NT
+mlh_png	mlh	Mape	Mape NT
+mlp_tbl	mlp	Bargam	Bargam NT
+mmo_wbt	mmo	Mangga Buang	Mangga Buang NT
+mmx_tbl	mmx	Madak	Madak NT+Psalms
+mna_png	mna	Mbula	Mbula Bible
+mni_twf	mni	Manipuri	Meitei Bible
+mop_wbt	mop	Mopán Maya	Mopán Maya NT
+mox_fns	mox	Molima	Molima NT
+mpa_twf	mpa	Mpoto	Mpoto NT
+mph_wbt	mph	Maung	Mawng Bible Portions
+mpj_bsa	mpj	Martu Wangka	Martu Wangka Bible
+mpm_tbl	mpm	Yosondúa Mixtec	Yosondúa Mixtec NT
+mpp_wbt	mpp	Migabac	Migabac Bible
+mps_tbl	mps	Dadibi	Dadibi Bible
+mpt_tbl	mpt	Mian	Mian NT
+mpx_png	mpx	Misima-Panaeati	Misima-Paneati Bible
+mqb_wbt	mqb	Mbuko	Mbuko NT
+mqj_wbt	mqj	Mamasa	Mamasa NT
+msb_wbt	msb	Masbatenyo	Masbatenyo NT
+msc_pbt	msc	Sankaran Maninka	Sankaran Maninka Bible Portions
+msk_wbt	msk	Mansaka	Mansaka NT
+msm_wps	msm	Agusan Manobo	Agusan Manobo NT
+msy_pbt	msy	Aruamu	Aruamu Bible
+msy_png	msy	Aruamu	Aruamu NT
+mti_tbl	mti	Maiwa (Papua New Guinea)	Maiwa NT
+mto_wbt	mto	Totontepec Mixe	Totontepec Mixe NT
+mux_tbl	mux	Bo-Ung	Bo-Ung NT
+muy_wbt	muy	Muyang	Muyang NT
+mva_png	mva	Manam	Manam NT
+mvn_jlb	mvn	Minaveha	Minaveha NT
+mwc_wbt	mwc	Are	Are Bible
+mwe_pbt	mwe	Mwera (Chimwera)	Mwera Bible
+mwf_2018	mwf	Murrinh-Patha	Murrinhpatha Bible
+mwp_wbt	mwp	Kala Lagaw Ya	Kala Lagaw Bible
+mxb_mvr	mxb	Tezoatlán Mixtec	Tezoatlán Mixtec NT
+mxm_wbt	mxm	Meramera	Meramera NT
+mxp_wbt	mxp	Tlahuitoltepec Mixe	Tlahuitoltepec Mixe NT
+mxq_tbl	mxq	Juquila Mixe	Juquila Mixe NT
+mxt_tbl	mxt	Jamiltepec Mixtec	Jamiltepec Mixtec NT
+mya_jvb	mya	Burmese	Judson Burmese Bible
+mya_ojv	mya	Burmese	Burmese Common Language Bible
+myk_wbt	myk	Mamara Senoufo	Mamara Sénoufo NT and portions of the OT
+myu_wbt	myu	Mundurukú	Mundurukú NT
+myw_png	myw	Muyuw	Muyuw NT
+myy_wbt	myy	Macuna	New Testament in Macuna
+mzq_sco	mzq	Mori Atas	Mori Atas NT+
+mzz_wbt	mzz	Maiadomu	Maiadomu Mark
+nab_wbt	nab	Southern Nambikuára	Southern Nambikuára NT
+naf_tbl	naf	Nabak	Nabak NT
+nag_ano	nag	Naga Pidgin	Nagamese NT
+nak_tbl	nak	Nakanai	Nakanai NT
+nal_wbt	nal	Nalik	Nalik NT
+nas_png	nas	Naasioi	Naasioi NT
+nay_afa	nay	Ngarrindjeri	Ngarrindjeri Scriptures
+nbq_wbt	nbq	Nggem	Nggem NT
+nca_wbt	nca	Iyo	Iyo NT
+nce_wbt	nce	Yale	Portions of the Holy Bible in the Yalë language of Papua New Guinea
+ncf_wbt	ncf	Notsi	Notsi NT
+nch_tbl	nch	Central Huasteca Nahuatl	Huasteca Central Nahuatl Bible
+ncj_tbl	ncj	Northern Puebla Nahuatl	Northern Puebla Nahuatl NT
+nck_wbt	nck	Na-kara	Nakara Selections
+ncl_tbl	ncl	Michoacán Nahuatl	Michoacán Nahuatl NT
+ncr_wbt	ncr	Ncane	Ncane NT
+ncu_wbt	ncu	Chumburung	Chumburung NT
+nde_bib	nde	North Ndebele	Ndebele Bible
+ndg_ulb	ndg	Ndengereko	Ndengereko NT
+ndj_twf	ndj	Ndamba	Ndamba New Testament
+nfa_ubb	nfa	Dhao	Dhao Bible
+ngp_twf	ngp	Ngulu	Nguu New Testament
+ngu_tbl	ngu	Guerrero Nahuatl	Guerrero Nahuatl NT
+nhe_tbl	nhe	Eastern Huasteca Nahuatl	Huasteca Oriental Nahuatl Bible 2005
+nhe_wbt	nhe	Eastern Huasteca Nahuatl	Huasteca Oriental Nahuatl NT 2009
+nhg_wbt	nhg	Tetelcingo Nahuatl	Tetelcingo Nahuatl NT
+nhi_wbt	nhi	Zacatlán-Ahuacatlán-Tepetzintla Nahuatl	Zacatlán-Ahuacatlán-Tepetzintla Nahuatl NT
+nho_tct	nho	Takuu	Takuu NT
+nhu_wbt	nhu	Noone	Noone NT
+nhw_tbl	nhw	Western Huasteca Nahuatl	Huasteca Occidental Nahuatl Bible
+nhy_tbl	nhy	Northern Oaxaca Nahuatl	Northern Oaxaca Nahuatl NT
+nif_wbt	nif	Nek	Nek NT
+nii_tbl	nii	Nii	Nii NT
+nin_wbt	nin	Ninzo	Ninzo NT
+nit_wtf	nit	Southeastern Kolami	Kolami, Southeastern: కొతత కరార (Bible)
+njd_twf	njd	Ndonde Hamba	Ndonde Hamba NT
+nkn_twf	nkn	Nkangala	Nkangala NT
+nko_ntw	nko	Nkonya	New Testament in Nkonya (GH:nko:Nkonya)
+nld_	nld	Dutch	Dutch Bible 1917
+nld_1939	nld	Dutch	Dutch Bible, Petrus Canisius
+nld_gbv	nld	Dutch	Dutch: Gods Boek
+nld_nbg	nld	Dutch	Dutch NBG 1951 Bible
+nlg_wbt	nlg	Gela	Gela Bible
+nmw_swb	nmw	Nimoa	Saisai Matthew + Ephesians
+nna_wbt	nna	Nyangumarta	Nyangumarta Bible
+nnq_twf	nnq	Ngindo	Ngindo New Testament
+noa_wbe	noa	Woun Meu	Woun Meu NT
+noa_wbt	noa	Woun Meu	Woun Meu NT
+nob_lbb	nob	Norwegian Bokmål	Norwegian Living NT
+nop_ntt	nop	Numanggang	Numanggang Bible
+not_wbt	not	Nomatsiguenga	Nomatsiguenga NT
+nou_tbl	nou	Ewage-Notu	Ewage-Notu NT
+npi_ncb	npi	Nepali	Nepali Contemporary Bible
+npi_ulb	npi	Nepali	Nepali Bible
+npl_wyi	npl	Southeastern Puebla Nahuatl	Southeastern Puebla Nahuatl NT
+nrz_nar	nrz	Lala	Nara NT
+nsn_wbt	nsn	Nehan	Nehan NT
+nss_wbt	nss	Nali	Nali Bible
+ntj_bsa	ntj	Ngaanyatjarra	Ngaanyatjarra Shorter Bible
+ntp_tbl	ntp	Northern Tepehuan	Northern Tepehuan NT
+ntu_wbt	ntu	Natügu	Natqgu NT+Ruth and Psalms
+nuq_wbt	nuq	Nukumanu	Nukumanu NT
+nuy_bsa	nuy	Nunggubuyu	Wubuy Shorter  Bible
+nvm_wbt	nvm	Namiae	Namiai NT
+nwi_wbt	nwi	Southwest Tanna	Southwest Tanna NT
+nww_twf	nww	Ndwewe	Ndwewe NT
+nya_bib	nya	Nyanja	Chichewa Bible
+nys_bsa	nys	Nyungar	Noongar Bible
+obo_wbt	obo	Obo Manobo	Obo Manobo NT
+okv_hwb	okv	Orokaiva	Orokaiva Ehija NT
+okv_tbl	okv	Orokaiva	Orokaiva Etija NT
+omb_pbt	omb	East Ambae	Ambae, East: Waratau Siaga Tatuei mo Vilegi (Old Testament)
+omw_aat	omw	South Tairora	South Tairora Aatasara John & Mark
+omw_sta	omw	South Tairora	South Tairora NT
+omw_veq	omw	South Tairora	South Tairora Veqaura NT
+ong_tbl	ong	Olo	Olo NT
+ons_png	ons	Ono	Ono NT
+ood_wbt	ood	Tohono O'odham	Tohono O'odham NT
+opm_tbl	opm	Oksapmin	Oksapmin NT
+ory_irv	ory	Odia	Oriya Indian Revised Version Bible
+ote_tbl	ote	Mezquital Otomi	Mezquital Otomi NT
+otm_wbt	otm	Eastern Highland Otomi	Eastern Highland Otomi NT
+otn_wbt	otn	Tenango Otomi	Tenango Otomi NT
+otq_tbl	otq	Querétaro Otomi	Querétaro Otomi NT
+ots_wbt	ots	Estado de México Otomi	Estado de México Otomi NT
+oyd_etw	oyd	Oyda	Oyde NT Ethiopic
+oyd_ltw	oyd	Oyda	Oyda NT Latin
+pab_tbl	pab	Parecís	Parecís NT
+pad_wbt	pad	Paumarí	Paumarí NT
+pah_tbl	pah	Tenharim	Tenharim NT
+pan_irv	pan	Punjabi	Punjabi Indian Revised Version Bible
+pao_nab	pao	Northern Paiute	Northern Paiute NT
+pdo_sco	pdo	Padoe	Padoe NT+
+peg_twf	peg	Pengo	Pengo NT
+pes_opcb	pes	Persian	Open Persian Contemporary Bible
+pes_pbs	pes	Persian	Old Persion Version Bible
+pga_pbt	pga	Sudanese Creole Arabic	Sudanese Creole Arabic Bible
+pib_wbt	pib	Yine	Yine NT
+pio_wbt	pio	Piapoco	Piapoco NT
+pir_wbt	pir	Piratapuyo	Piratapuyo NT
+piu_bsa	piu	Pintupi-Luritja	Luritja Bible
+pjt_bsa	pjt	Pitjantjatjara	Pitjantjatjara Shorter Bible
+pll_twf	pll	Shwe Palaung	Shwe Palaung NT
+pls_wbt	pls	San Marcos Tlacoyalco Popoloca	San Marcos Tlalcoyalco Popoloca NT
+plu_wbt	plu	Palikúr	Palikúr NT
+pma_wbt	pma	Paama	Paama Bible
+poe_tbl	poe	San Juan Atzingo Popoloca	San Juan Atzingo Popoloca NT
+poh_bsg	poh	Poqomchi'	Poqomchi' Occidental NT
+poi_wbt	poi	Highland Popoluca	Highland Popoluca NT
+pol_bib	pol	Polish	Polish OPLNT
+pol_ubg	pol	Polish	Polish Updated Gdansk Bible
+pon_pja	pon	Pohnpeian	Pohnpeian NT & Psalms, old alphabet
+pon_psa	pon	Pohnpeian	Pohnpeian NT & Psalms, new alphabet
+pon_ssp	pon	Pohnpeian	Pohnpeian Bible with Apocrypha 2006
+pon_sspon	pon	Pohnpeian	Pohnpeian Bible 2006
+por_blj	por	Portuguese	Portuguese Bíblia Livre
+por_blt	por	Portuguese	Portuguese Free Bible for All
+por_bsl	por	Portuguese	World Portuguese Bible
+por_onbv	por	Portuguese	Portuguese ONBV
+por_tft	por	Portuguese	Portuguese Translation for Translators
+poy_pbt	poy	Pogolo	The New Testament in Pogoro
+ppo_wbt	ppo	Folopa	Folopa NT
+prf_wbt	prf	Paranan	New Testament in Paranan (RP:prf:Paranan)
+pri_wbt	pri	Paicî	Paicî NT
+ptp_tbl	ptp	Patep	Patep NT
+ptu_lai	ptu	Bambam	Bambam Bible
+pub_twf	pub	Purum	First Purum Bible Translation
+puu_sco	puu	Punu	Punu NT+
+pwg_gtt	pwg	Gapapaiwa	Gapapaiwa NT
+pwr_twf	pwr	Powari	Powari NT
+qub_wbt	qub	Huallaga Huánuco Quechua	Huallaga Huánuco Quechua NT
+quc_new	quc	Kʼicheʼ	K'iche' Cantel NT, new spelling
+quc_tra	quc	Kʼicheʼ	K'iche' Cantel NT, traditional spelling
+quc_ttp	quc	Kʼicheʼ	K’iche’ of Totonicapan NT
+quf_llb	quf	Lambayeque Quechua	Lambayeque Quechua NT
+quh_sbb	quh	South Bolivian Quechua	South Bolivian Quechua NT
+qul_sbb	qul	North Bolivian Quechua	North Bolivian Quechua NT
+qup_wbt	qup	Southern Pastaza Quechua	Southern Pastaza Quechua NT
+qvc_tbl	qvc	Cajamarca Quechua	Cajamarca Quechua NT
+qve_tbl	qve	Eastern Apurímac Quechua	Eastern Apurímac Quechua NT
+qvh_wbt	qvh	Huamalíes-Dos de Mayo Huánuco Quechua	Huamalíes-Dos de Mayo Huánuco Quechua NT
+qvm_tbl	qvm	Margos-Yarowilca-Lauricocha Quechua	Margos-Yarowilca-Lauricocha Quechua NT
+qvn_llb	qvn	North Junín Quechua	North Junín Quechua NT
+qvs_tbl	qvs	San Martín Quechua	San Martín Quechua NT
+qvw_wbt	qvw	Huaylla Wanca Quechua	Huaylla Wanca Quechua NT
+qvz_wbt	qvz	Northern Pastaza Quichua	Northern Pastaza Quichua NT
+qwh_llb	qwh	Huaylas Ancash Quechua	Huaylas Ancash Quechua NT
+qxh_wbt	qxh	Panao Huánuco Quechua	Panao Huánuco Quechua NT
+qxn_wbt	qxn	Northern Conchucos Ancash Quechua	Northern Conchucos Ancash Quechua NT
+qxo_wbt	qxo	Southern Conchucos Ancash Quechua	Southern Conchucos Ancash Quechua NT
+rai_tbl	rai	Ramoaaina	Ramoaaina NT+
+reg_ulb	reg	Kara (Tanzania)	Kara NT
+rei_twf	rei	Reli	Reli Bible
+rgu_ubb	rgu	Ringgou	Rote Rikou Bible
+rhg_ctw	rhg	Rohingya	Rohingya: Kitabul Mukaddos or Injil Córif (Bible)
+rhg_sco	rhg	Rohingya	Rohingya: Rohingya Bible Translation Project (Bible)
+rif_ati	rif	Riffian	Tarifit Bible (Arabic Script)
+rif_lti	rif	Riffian	Tarifit Bible Latin Script
+rif_tti	rif	Riffian	Tarifit Bible Tifinagh Script
+rkb_wbt	rkb	Rikbaktsa	Rikbaktsa NT
+rki_twf	rki	Rakhine	Rakhine Bible
+rmb_wbt	rmb	Rembarrnga	Rembarrnga Christmas Story
+rmc_the	rmc	Carpathian Romani	Eastern Slovak Romani Bible
+rmc_zrb	rmc	Carpathian Romani	Carpathian Romani Luke
+rmn_atw	rmn	Balkan Romani	Balkans Arli Bible
+rmn_pbt	rmn	Balkan Romani	Balkan Romani Bible portions
+rmy_arl	rmy	Romany	Arli Luke
+rmy_che	rmy	Romany	Chergash NT
+rmy_gur	rmy	Romany	Gurbet NT
+rmy_lov	rmy	Romany	Lovari Vlax Romani Bible
+rmy_ser	rmy	Romany	Servi Romani Bible portions
+rmy_vla	rmy	Romany	Eastern Vlakh Romani
+ron_924	ron	Romanian	Romanian Bible (Cyrillic)
+ron_bayash	ron	Romanian	Bayash Bible
+ron_btf	ron	Romanian	Romanian BTF Bible
+ron_lsb	ron	Romanian	Romanian Free Holy Bible
+ron_lud	ron	Romanian	Ludari Luke
+roo_tbl	roo	Rotokas	Rotokas NT
+rop_wbt	rop	Kriol	Kriol Bible
+row_ubb	row	Dela-Oenale	Rote Dela Bible
+rro_png	rro	Waima	Waima NT
+ruf_pbt	ruf	Luguru	Luguru NT
+rug_wbt	rug	Roviana	Roviana Bible
+rup_twf	rup	Aromanian	Aromanian Bible
+rus_syn	rus	Russian	Russian Synodal Bible
+rwo_kar	rwo	Rawa	Rawa Karo NT
+rwo_raw	rwo	Rawa	Rawa NT
+sab_wbt	sab	Buglere	Buglere NT
+san_asm	san	Sanskrit	Sanskrit New Testament in Assamese Script
+san_ben	san	Sanskrit	Sanskrit NT in Bengali Script
+san_bur	san	Sanskrit	Sanskrit Language NT in Burmese Script
+san_col	san	Sanskrit	New Testament in Sanskrit Language; printed in Cologne Script
+san_dev	san	Sanskrit	Sanskrit NT in Devanagari Script
+san_guj	san	Sanskrit	Sanskrit NT in Gujarati Script
+san_hks	san	Sanskrit	Sanskrit NT in Harvard-Kyoto Script
+san_ias	san	Sanskrit	New Testament in Sanskrit Language; printed in IAST Script
+san_iso	san	Sanskrit	Sanskrit NT in ISO Script
+san_itr	san	Sanskrit	Sanskrit NT in ITRANS Script
+san_kan	san	Sanskrit	Sanskrit NT in Kannada Script
+san_khm	san	Sanskrit	Sanskrit NT in Khmer Script
+san_mal	san	Sanskrit	Sanskrit NT in Malayalam Script
+san_ori	san	Sanskrit	Sanskrit NT in Oriya Script
+san_pun	san	Sanskrit	Sanskrit NT in Punjabi Script
+san_sin	san	Sanskrit	Sanskrit NT in Sinhala Script
+san_tam	san	Sanskrit	Sanskrit NT in Tamil Script
+san_tel	san	Sanskrit	Sanskrit NT in Telugu Script
+san_tha	san	Sanskrit	Sanskrit NT in Thai Script
+san_tib	san	Sanskrit	Sanskrit NT in Tibetan Script
+san_urd	san	Sanskrit	Sanskrit NT in Urdu Script
+san_vel	san	Sanskrit	Sanskrit NT in Velthuis Script
+sav_wbt	sav	Saafi-Saafi	Saafi-Saafi Bible
+sbe_wbt	sbe	Saliba	Saliba NT
+sbk_ulb	sbk	Safwa	Safwa NT
+sbs_doo	sbs	Subiya	Kuhane NT
+sby_twf	sby	Soli	Soli NT
+sce_rsp	sce	Dongxiang	Donxian NT
+sch_twf	sch	Sakachep	Sakachep NT
+seh_wbt	seh	Sena	Sena NT
+sey_wbt	sey	Secoya	Secoya NT
+sgb_wbt	sgb	Mag-antsi Ayta	Mag-antsi Ayta NT
+sgz_wbt	sgz	Sursurunga	Sursurunga NT
+shj_pbt	shj	Shatt	Caning Bible Translation
+shp_tbl	shp	Shipibo-Conibo	Shipibo-Conibo Bible
+shr_buk	shr	Shi	Mashi Bible
+sim_png	sim	Mende (Papua New Guinea)	Mende NT
+six_pbt	six	Sumau	Somau Karia NT
+sja_wbt	sja	Epena	Epena NT
+sle_wft	sle	Sholaga	Sholaga NT
+slk_bib	slk	Slovak	Slovak NT
+sll_tbl	sll	Salt-Yui	Salt-Yui NT
+smk_wbt	smk	Bolinao	Bolinao NT
+sna_bib	sna	Shona	Shona Bible
+snc_png	snc	Sinaugoro	Sinaugoro NT
+snn_wbt	snn	Siona	Siona NT
+snp_kom	snp	Siane	Siane Komongu NT
+snp_lam	snp	Siane	Siane Lambau NT
+snx_wbt	snx	Sam	Sam Mark
+sny_tbl	sny	Saniyo-Hiyewe	Saniyo-Hiyewe NT
+som_sim	som	Somali	Somali Bible
+soq_wbt	soq	Kanasi	Kanasi NT
+soy_sim	soy	Miyobe	Sola NT
+spa_bes	spa	Spanish	La Biblia en Español Sencillo
+spa_blm	spa	Spanish	Spanish Free Bible for the World
+spa_onbv	spa	Spanish	Spanish ONBV
+spa_pdt	spa	Spanish	Spanish Bible (God's Word for You)
+spa_r09	spa	Spanish	Reina Valera 1909
+spa_rvg	spa	Spanish	RVG Spanish Bible
+spa_v2p	spa	Spanish	Spanish Valera Purificada
+spa_vbl	spa	Spanish	Spanish Free Bible Version
+spl_png	spl	Selepet	Selepet NT
+spm_pbt	spm	Akukem	Published Mark & Acts
+spp_wbt	spp	Supyire Senoufo	Supyire Sénoufo NT
+sps_tbl	sps	Saposa	Saposa NT
+spy_wbt	spy	Kalenjin	Sabaot NT
+sri_wbt	sri	Siriano	Siriano NT
+srm_wbt	srm	Saramaccan	Saramaccan NT
+srn_bss	srn	Sranan Tongo	Sranan NT
+srp_865	srp	Serbian	Serbian Bible
+srp_onspc	srp	Serbian	Serbian ONSP Cyrillic
+srp_onstl	srp	Serbian	Serbian ONST Latin
+srq_wbt	srq	Sirionó	Sirionó NT
+ssd_wbt	ssd	Siroi	Siroi Bible
+ssg_wbt	ssg	Seimat	Seimat NT
+ssx_png	ssx	Samberigi	Sembeleke Bible
+stp_tbl	stp	Southeastern Tepehuan	Southeastern Tepehuan NT
+stw_wbt	stw	Satawalese	Satawalese: Pwapwior we e Santus (New Testament)
+sua_tbl	sua	Sulka	Sulka NT
+sue_wbt	sue	Suena	Suena NT
+sur_itd	sur	Mwaghavul	Mwaghavul NT
+sus_apb	sus	Susu	Susu Bible (Arabic script)
+sus_pbt	sus	Susu	Susu Bible
+suz_wbt	suz	Sunwar	Sunwar Bible
+swe_fol	swe	Swedish	Swedish Folkbibleln
+swe_svk	swe	Swedish	Swedish NT+
+swh_bib	swh	Swahili	Kiswahili Contemporary Version
+swh_onmm	swh	Swahili	Swahili ONMM
+swh_swa	swh	Swahili	Swahili Bible
+swh_ulb	swh	Swahili	Swahili Unlocked Literal Bible
+swp_png	swp	Suau	Suau Bible
+sxb_wbt	sxb	Suba	Suba NT
+tac_wbt	tac	Lowland Tarahumara	Western Tarahumara NT
+taj_wbt	taj	Eastern Tamang	Eastern Tamang NT
+tam_irv	tam	Tamil	Tamil Indian Revised Version Bible
+tam_tcv	tam	Tamil	Biblica® திறநதநிலை தமிழ சமகால பதிபபு
+tap_twf	tap	Taabwa	Kitaabua NT
+tav_wbt	tav	Tatuyo	New Testament in Tatuyo
+taw_pbt	taw	Tai	Tai NT
+tbc_png	tbc	Takia	Takia NT
+tbf_man	tbf	Mandara	Mandara Bible
+tbg_nor	tbg	North Tairora	North Tairora Arau Bible
+tbg_wbt	tbg	North Tairora	North Tairora
+tbl_wbt	tbl	Tboli	Tboli NT
+tbo_wbt	tbo	Tawala	Tawala NT
+tbx_wbt	tbx	Kapin	Kapin Bible
+tbz_sim	tbz	Ditammari	Ditammari Bible
+tca_tbl	tca	Ticuna	Ticuna NT
+tcn_twf	tcn	Tichurong	Tichurong: तिचुरोङ कयेला सारबा करारयि किताबतेबा (Bible with Deuterocanon)
+tcs_wbt	tcs	Torres Strait Creole	Yumplatok Bible
+tdt_beh	tdt	Tetun Dili	Tetun Dili NT
+tdx_sle	tdx	Tandroy-Mahafaly Malagasy	Tandroy Bible
+tee_tbl	tee	Huehuetla Tepehua	Huehuetla Tepehua NT
+tel_irv	tel	Telugu	Telugu Indian Revised Version Bible
+tel_otsa	tel	Telugu	Telugu OTSA
+ter_tbl	ter	Tereno	Terêna NT
+tet_ubb	tet	Tetum	Tetun Bible
+tew_wbt	tew	Tewa (USA)	Tewa NT
+tfr_wbt	tfr	Teribe	Teribe Bible
+tgj_twf	tgj	Tagin	Tagin first Bible translation based on TEV (Good News)
+tgk_ibt	tgk	Tajik	Tajik Bible
+tgl_ulb	tgl	Filipino	Tagalog Bible
+tgo_wbt	tgo	Sudest	Sudest Bible Portions
+tgp_wbt	tgp	Tangoa	Tangoa NT
+tha_kjv	tha	Thai	Thai KJV Bible
+thd_ahh	thd	Kuuk Thaayorre	Thayorre Bible Portions
+thr_twf	thr	Rana Tharu	Rana Tharu NT
+tif_wbt	tif	Tifal	Tifal NT
+tim_tbl	tim	Timbe	Timbe NT
+tiw_mwb	tiw	Tiwi	Tiwi Selections
+tiw_wbt	tiw	Tiwi	Tiwi Gospels
+tiy_wbt	tiy	Tiruray	Tiruray NT
+tke_wbt	tke	Takwane	Takwane NT
+tkr_ibt	tkr	Tsakhur	Tsakhur Bible
+tku_wbt	tku	Upper Necaxa Totonac	Upper Necaxa Totonac
+tlf_tbl	tlf	Telefol	Telefol NT
+tmd_wbt	tmd	Haruai	Haruai NT
+tna_wbt	tna	Tacana	Tacana NT
+tnc_wbt	tnc	Tanimuca-Retuarã	Tanimuca-Retuarã NT portions
+tnk_wbt	tnk	Kwamera	Nafe NT
+tnn_wbt	tnn	North Tanna	North Tanna NT
+tnp_wbt	tnp	Whitesands	Whitesands NT
+toc_tbl	toc	Coyutla Totonac	Coyutla Totonac NT
+tod_pbt	tod	Toma	Toma Bible Portions
+tof_wbt	tof	Gizrra	Gizrra Bible
+toj_wbt	toj	Tojolabal	Tojolabal NT
+ton_png	ton	Tongan	Revised West Version
+too_wbt	too	Xicotepec De Juárez Totonac	Xicotepec De Juárez Totonac NT
+top_wbt	top	Papantla Totonac	Papantla Totonac NT
+tos_tbl	tos	Highland Totonac	Highland Totonac NT
+tpa_wbt	tpa	Taupota	Taupota Mark
+tpi_png	tpi	Tok Pisin	Tok Pisin Bible with Deuterocanon
+tpi_pngon	tpi	Tok Pisin	Tok Pisin Bible
+tpt_wbt	tpt	Tlachichilco Tepehua	Tlachichilco Tepehua NT
+tpz_wbt	tpz	Tinputz	Tinputz Vasui NT
+trc_tbl	trc	Copala Triqui	Copala Triqui NT
+tsn_bib	tsn	Tswana	Open Tswana Living NT
+tsw_sco	tsw	Tsishingini	Tsishingini OT
+tsw_wbt	tsw	Tsishingini	Tsishingini NT
+ttc_wbt	ttc	Tektiteko	Tektiteko NT
+tte_owb	tte	Bwanabwana	Bwanabwana OT
+tte_tbl	tte	Bwanabwana	Bwanabwana NT
+tuc_oov	tuc	Mutu	Saveeng Oov Bible
+tuc_tua	tuc	Mutu	Saveeng Tuam Bible
+tue_wbt	tue	Tuyuca	Tuyuca NT
+tuf_wbt	tuf	Central Tunebo	Central Tunebo NT
+tuo_wbt	tuo	Tucano	Tucano NT
+tur_obt	tur	Turkish	Open Basic Turkish New Testament
+tur_ytc	tur	Turkish	Turkish WEB
+tvk_wbt	tvk	Southeast Ambrym	Southeast Ambrym Bible portions
+tvn_twf	tvn	Tavoyan	Tavoyan Bible
+tvt_wft	tvt	Tutsa Naga	Tutsa Naga NT
+twi_aka	twi	Akan	Akuapem Twi Bible
+twi_asa	twi	Akan	Asante Twi Bible
+txq_ubb	txq	Tii	Rote Tii Bible
+txu_tbl	txu	Kayapó	Kayapó NT
+tyx_wbt	tyx	Teke-Tyee	Teke-Tyee NT
+tzj_eas	tzj	Tz'utujil	Eastern Tz'utujil NT
+tzj_wes	tzj	Tz'utujil	Western Tz'utujil NT
+tzo_hui	tzo	Tzotzil	Tzotzil Huixtan NT
+tzo_san	tzo	Tzotzil	San Andres Tzotzil NT
+tzo_tzc	tzo	Tzotzil	Tzotzil de Chamula NT
+tzo_tze	tzo	Tzotzil	Tzotzil de Chenalhó NT
+tzo_zin	tzo	Tzotzil	Tzotzil Zinacantan NT
+ubr_tbl	ubr	Ubir	Ubir Bible
+ubu_and	ubu	Umbu-Ungu	Umbu-Ungu Andelale NT
+ubu_kal	ubu	Umbu-Ungu	Umbu-Ungu Kala NT
+ubu_nop	ubu	Umbu-Ungu	Umbu-Ungu No Penge NT
+udu_sim	udu	Uduk	Uduk Bible
+uig_ara	uig	Uyghur	Uyghur Bible (arabic script)
+uig_cyr	uig	Uyghur	Uyghur Bible (cyrillic script)
+uig_lat	uig	Uyghur	Uyghur Bible (modern latin script)
+uig_pin	uig	Uyghur	Uyghur Bible (former latin script)
+ukr_1996	ukr	Ukrainian	Ukrainian Bible, BJU 1996
+ukr_npu	ukr	Ukrainian	New Ukranian Translation NT+Psalms
+ukr_pan	ukr	Ukrainian	Ukrainian Bible by P. Kulish
+ukr_ufb	ukr	Ukrainian	Ukrainian Freedom Bible
+uli_bsm	uli	Ulithian	Ulithian NT
+ulk_wbt	ulk	Meriam Mir	Meriam Mir Bible
+unx_twf	unx	Munda	Munda NT
+upv_wbt	upv	Uripiv-Wala-Rano-Atchin	Uripiv New Testament
+ura_tbl	ura	Urarina	Urarina NT
+urb_wbt	urb	Urubú-Kaapor	Kaapor NT
+urd_gvh	urd	Urdu	Urdu Geo Bible, Hindi Script
+urd_gvr	urd	Urdu	The Holy Bible in Urdu, Urdu Geo Version, Roman Script
+urd_gvu	urd	Urdu	Urdu Geo Bible (Urdu Script)
+urd_irv	urd	Urdu	Urdu IRV Bible
+urd_oucv	urd	Urdu	Urdu: Biblica® آزادانہ اردو ہم عصر ترجمہ (Bible)
+uri_wbt	uri	Urim	Urim: Wurkapm a Maur Wailen Portions
+uro_wbt	uro	Ura (Papua New Guinea)	Ura NT
+urt_wbt	urt	Urat	Urat New Testament
+urw_pbt	urw	Sop	Sop Jonah and Luke
+usa_wbt	usa	Usarufa	Usarufa Bible
+usp_wbt	usp	Uspanteco	Uspanteko NT
+utr_sco	utr	Etulo	Etulo NT+
+uvh_wbt	uvh	Uri	Urii NT
+uvl_wbt	uvl	Lote	Lote Bible
+vaa_wft	vaa	Vaagri Booli	Vaagri Booli NT
+vgr_wft	vgr	Vaghri	Vaghri NT
+vid_pbt	vid	Vidunda	Vidunda NT+
+vie_1934	vie	Vietnamese	Vietnamese Bible 1923
+vie_vcb	vie	Vietnamese	Vietnamese Contemporary Bible
+viv_wbt	viv	Iduna	Iduna NT
+vmy_wbt	vmy	Ayautla Mazatec	NT in Ayautla Mazateco
+waj_wbt	waj	Waffa	Waffa NT
+wal_sim	wal	Wolaytta	Wolaytta Bible
+wap_wbt	wap	Wapishana	Wapishana NT
+wat_wbt	wat	Kaninuwa	Kaninuwa Bible
+wbi_ulb	wbi	Vwanji	Vwanji NT
+wbp_wbt	wbp	Warlpiri	Warlpiri Bible
+wbq_bcs	wbq	Waddar	Waddar Bible
+wed_top	wed	Wedau	Wedau Topura Mark
+wed_wbt	wed	Wedau	Wedau Mark
+wer_tbl	wer	Weri	Weri NT
+wim_wbt	wim	Wik-Mungkan	Wik-Mungkan NT
+wiu_tbl	wiu	Wiru	Witu NT
+wiv_wbt	wiv	Vitu	Vitu NT
+wja_sco	wja	Waja	Waja Bible
+wlg_wbt	wlg	Kunbarlang	Kunbarlang Bible Portions
+wlo_wbt	wlo	Wolio	Wolio: Kitabi Momangkilona Wolio (New Testament+)
+wmt_wbt	wmt	Walmajarri	Walmajarri Bible
+wmw_wbt	wmw	Mwani	Mwani NT
+wnc_png	wnc	Wantoat	Wantoat NT
+wnu_png	wnu	Usan	Usan NT
+wol_inj	wol	Wolof	Wolof NT 2010
+wol_mbs	wol	Wolof	Wolof Bible (MBS)
+wos_wbt	wos	Hanga Hundi	Hanga Hundi Bible
+wrk_wbt	wrk	Garrwa	Garrwa Shorter New Testament
+wro_bfb	wro	Worrorra	Worrorra Mark and Luke
+wrs_png	wrs	Waris	Waris Bible
+wsk_png	wsk	Waskia	Waskia Bible
+wuv_wbt	wuv	Wuvulu-Aua	Wuvalu-Aua NT
+xav_tbl	xav	Xavánte	Xavánte NT
+xbi_wam	xbi	Kombio	Kombio Wampukuamp Bible
+xbi_yan	xbi	Kombio	Kombio Yanimoi Bible
+xed_wbt	xed	Hdi	Hdi NT
+xla_png	xla	Kamula	Kamula Bible
+xnj_twf	xnj	Ngoni (Tanzania)	Ngoni NT
+xnn_wbt	xnn	Northern Kankanay	New Testament in Kankanay, Northern
+xon_wbt	xon	Konkomba	Konkomba
+xsi_wbt	xsi	Sio	Sio NT + Psalms
+xsn_liz	xsn	Sanga (Nigeria)	Sanga Bible
+xtd_tbl	xtd	Diuxi-Tilantongo Mixtec	Diuxi-tilantongo Mixtec NT
+xtm_wbt	xtm	Magdalena Peñasco Mixtec	Magdalena Peñasco Mixtec Bible
+yaa_tbl	yaa	Yaminahua	Yaminahua NT
+yad_tbl	yad	Yagua	Yagua NT
+yaf_tsc	yaf	Yaka (Democratic Republic of Congo)	Yaka NT
+yal_pbt	yal	Yalunka	Yalunka Bible
+yao_twf	yao	Yao	Yao NT
+yap_bsm	yap	Yapese	Yapese Bible
+yaq_tbl	yaq	Yaqui	Yaqui NT
+yby_wbt	yby	Yaweyuha	Yaweyuha NT
+ycn_wbt	ycn	Yucuna	Yucuna NT
+ydd_afi	ydd	Yiddish	Eastern Yiddish NT
+yer_lis	yer	Tarok	The Holy Bible in the Tarok language of Nigeria
+yij_wbt	yij	Yindjibarndi	Yindjibarndi Luke
+yka_wbt	yka	Yakan	Yakan Bible
+yle_tbl	yle	Yele	Rossel NT
+yml_tbl	yml	Iamalele	Iamalele NT
+ymp_sil	ymp	Yamap	Yamap NT+
+yns_tsc	yns	Yansi	Yansi NT
+yom_bib	yom	Yombe	Yombe: Biblica® Open Nkanda wu Moyo, Nguizani Yimona ayi Minkunga 2002 (Bible)
+yon_png	yon	Yongkom	Yongkom NT + partial OT
+yor_bib	yor	Yoruba	Yoruba Bible
+yrb_tbl	yrb	Yareba	Yareba NT
+yre_wbt	yre	Yaouré	Yaouré NT
+yss_yam	yss	Yessan-Mayo	Yessan-Mayo Yamano NT
+yss_yaw	yss	Yessan-Mayo	Yessan-Mayo Yawu NT
+yuj_tbl	yuj	Karkar-Yuri	Karkar-Yuri NT
+yut_wbt	yut	Yopno	Yopno NT & Psalms
+yuw_png	yuw	Yau (Morobe Province)	Yau NT
+yva_tbl	yva	Yawa	Yawa NT+
+zaa_tbl	zaa	Sierra de Juárez Zapotec	Sierra de Juárez Zapotec NT
+zab_tbl	zab	Western Tlacolula Valley Zapotec	San Juan Guelavía Zapotec
+zac_sim	zac	Ocotlán Zapotec	Ocotlán Zapotec
+zad_wbt	zad	Cajonos Zapotec	Cajonos Zapotec NT
+zai_tbl	zai	Zapotec	Isthmus Zapotec NT
+zaj_pbt	zaj	Zaramo	Zaramo Bible
+zaj_ppb	zaj	Zaramo	Zaramo: Bibilia ya Kizalamo (Bible)
+zak_wbt	zak	Zanaki	Zanaki NT
+zam_ilm	zam	Miahuatlán Zapotec	Miahuatlán Zapotec NT
+zao_tbl	zao	Ozolotepec Zapotec	Ozolotepec Zapotec NT
+zar_tbl	zar	Rincón Zapotec	Rincón Zapotec NT
+zas_wyi	zas	Santo Domingo Albarradas Zapotec	Santo Domingo Albarradas Zapotec NT
+zat_wbt	zat	Tabaa Zapotec	Tabaa Zapotec NT & Psalms
+zav_tbl	zav	Yatzachi Zapotec	Yatzachi Zapotec NT
+zaw_mvr	zaw	Mitla Zapotec	Mitla Zapotec NT
+zbu_tsc	zbu	Bu (Bauchi State)	Bu NT
+zca_wyi	zca	Coatecas Altas Zapotec	Coatecas Altas Zapotec
+zga_mul	zga	Kinga	Mahanji NT
+zia_tbl	zia	Zia	Zia NT
+zin_wbt	zin	Zinza	Zinza NT+
+ziw_twf	ziw	Zigula	Zigua New Testament
+zlm_ksz	zlm	Malay (individual language)	Contextualized Malay NT
+zlu_tsc	zlu	Zul	Polci NT
+zos_tbl	zos	Francisco León Zoque	Francisco León Zoque NT
+zpc_wbt	zpc	Choapan Zapotec	Choapan Zapotec NT
+zpi_wyi	zpi	Santa María Quiegolani Zapotec	Santa María Quiegolani Zapotec NT
+zpl_tbl	zpl	Lachixío Zapotec	Lachixío Zapotec NT
+zpm_tbl	zpm	Mixtepec Zapotec	Mixtepec Zapotec NT
+zpo_tbl	zpo	Amatlán Zapotec	Amatlán Zapotec NT
+zpq_tbl	zpq	Zoogocho Zapotec	Zoogocho Zapotec NT
+zpu_tbl	zpu	Yalálag Zapotec	Yalálag Zapotec NT
+zpv_tbl	zpv	Chichicapan Zapotec	Chichicapan Zapotec NT
+zpz_tbl	zpz	Texmelucan Zapotec	Texmelucan Zapotec Bible
+zsr_wbt	zsr	Southern Rincon Zapotec	Southern Rincon Zapotec NT
+ztp_wbt	ztp	Loxicha Zapotec	Loxicha Zapotec NT
+ztq_tbl	ztq	Quioquitani-Quierí Zapotec	Quioquitani-Quierí Zapotec NT
+zty_tbl	zty	Yatee Zapotec	Yatee Zapotec NT & Psalms
+zyp_wbt	zyp	Zyphe Chin	Zyphe Chin NT
